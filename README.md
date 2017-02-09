@@ -1,4 +1,4 @@
-# Presentacion de Administracion de Tiempo
+# Presentacion de Comunicación
 
 Curso de Capacitacion Interna
 
