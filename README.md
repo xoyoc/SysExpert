@@ -1,9 +1,9 @@
-# Presentacion de Comunicación
+# Presentacion de Validación SysExpert
 
 Curso de Capacitacion Interna
 
-Para la Asociacion de Agenetes Aduanales de Lazaro Cardenas
+Para la Agencia Aduanal Tradelink Pacifico
 
 MIT licensed
 
-Copyright (C) 2016 
+Copyright (C) 2017
